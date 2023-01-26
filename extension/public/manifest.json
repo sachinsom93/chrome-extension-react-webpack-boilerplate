@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
 	"version": "1.0.0",
-	"name": "Visa Extension",
-	"description": "Chrome extension for continously monitor visa website status.",
+	"name": "Extension Demo Name",
+	"description": "Demo Description for chrome extension.",
 	"action": {
 		"default_popup": "index.html",
 		"default_title": "Open the popup"
